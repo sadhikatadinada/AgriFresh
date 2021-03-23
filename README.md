@@ -6,6 +6,7 @@ We have developed the main classification system. Although the app has yet to ha
 This app is really useful for the agricultural field. One of the issues that both the farmer as well as the consumer faces is grading of fruits. They both end up taking a lot of time to grade the fruits and guess weather it is fresh and how much it should cost. Our app fixes that problem by grading the fruits quickly for them. Hence saving time and increasing manageability.
 
 If you want to run the HTML file then choose: index.html
+
 If you want to run the python script then choose: python_code.py
 
 NOTE: in case you are using appilaction like juypter notebook or idle then at line 18, 20, 24, 26, 52, 53 replace the given string with the local location of the image files. For example: 'C:\Users\samyak\Desktop\Python Programming\fruits-360\Test/' or 'C:\Users\samyak\Desktop\Python Programming\fruits-360\Training/'
