@@ -9,6 +9,8 @@ If you want to run the HTML file then choose: index.html
 
 If you want to run the python script then choose: python_code.py
 
+To view and download the training and the testing datasets, then choose: training_n_testing_data.txt
+
 NOTE: in case you are using appilaction like juypter notebook or idle then at line 18, 20, 24, 26, 52, 53 replace the given string with the local location of the image files. For example: 'C:\Users\samyak\Desktop\Python Programming\fruits-360\Test/' or 'C:\Users\samyak\Desktop\Python Programming\fruits-360\Training/'
 
 in case you are using google collab then first run the following code:-
